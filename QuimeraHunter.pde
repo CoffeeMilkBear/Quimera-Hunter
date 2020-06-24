@@ -38,7 +38,7 @@ void setup() {
   
   inventorySetup();
 
-  screen = 5; // use this to skip to other areas 
+  screen = 0; // use this to skip to other areas 
 }
 
 
